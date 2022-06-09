@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "542390011219",
+    "firebase_url": "https://assistall-7d44e.firebaseio.com",
+    "project_id": "assistall-7d44e",
+    "storage_bucket": "assistall-7d44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542390011219:android:c82cf262f0eb22bfb74da6",
+        "android_client_info": {
+          "package_name": "com.app.assistall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542390011219-7ccroni1ofc7ctqek9cbkligefb8jeae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.assistall",
+            "certificate_hash": "1dff8a385e47d28f0117c8b6f0648280bab1082f"
+          }
+        },
+        {
+          "client_id": "542390011219-nbtou8ndq35cb5t8esdaghmo6qr8p5l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.assistall",
+            "certificate_hash": "ce635391fdb6499b6a5a68ba5dc8e97f543b54bb"
+          }
+        },
+        {
+          "client_id": "542390011219-r30h89abj8jua0s213h23vfjkgvf49j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4YAHsNiX_tQll2MVp3VT8L8c5xoWFrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542390011219-r30h89abj8jua0s213h23vfjkgvf49j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
