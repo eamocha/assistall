@@ -8,6 +8,7 @@ import 'package:agora_flutter_quickstart/tabs/profile/callReservations.dart';
 
 class MainPage extends StatelessWidget {
   // This widget is the root of your application.
+  ///recommended
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
